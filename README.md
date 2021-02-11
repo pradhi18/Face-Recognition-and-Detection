@@ -4,4 +4,4 @@ This was the final result of the project!
 ![](finalResult.JPG)
 
 
-![](output.mp4)
+![](output.MP4)
